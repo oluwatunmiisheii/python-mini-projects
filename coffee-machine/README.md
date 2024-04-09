@@ -17,6 +17,7 @@ python3 main.py
 ```
 
 ## How to Use
+
 Once the program is running, it's super easy to use! just follow the prompts.
 
 - Want a latte? Just type `latte`.
