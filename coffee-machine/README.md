@@ -1,8 +1,7 @@
 # Coffee Maker Application
 
-<div style="width: 400px; height: 300px; overflow: hidden;">
-  <img src="https://images.unsplash.com/photo-1552833755-fdb50eeb8cf1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Coffee Maker Image" style="width: 100%; height: 100%; object-fit: cover;">
-</div>
+![Coffee Maker Image](https://github.com/oluwatunmiisheii/python-cli-apps/assets/42435593/6906ea30-e538-4e80-add5-934b4f3d3cc0)
+
 
 
 ## What's this?
