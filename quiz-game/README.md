@@ -1,6 +1,7 @@
 # Quiz Application
 
-![Quiz Image]()
+![Quiz Image](https://github.com/oluwatunmiisheii/python-cli-apps/assets/42435593/c08ea442-fec0-4412-8cbc-e1c596bad318)
+
 
 
 ## What's this?
