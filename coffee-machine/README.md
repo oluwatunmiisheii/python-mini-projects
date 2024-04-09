@@ -1,7 +1,7 @@
 # Coffee Maker Application
 
-![Coffee Maker Image](![Screenshot 2024-04-09 at 11 56 29](https://github.com/oluwatunmiisheii/python-cli-apps/assets/42435593/e5f94fac-f8a0-45dd-8ee6-ce5d95bea6aa)
-)
+![Coffee Maker Image](https://github.com/oluwatunmiisheii/python-cli-apps/assets/42435593/e5f94fac-f8a0-45dd-8ee6-ce5d95bea6aa)
+
 
 ## What's this?
 
