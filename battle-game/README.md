@@ -1,6 +1,6 @@
 # Battle Simulator
 
-![Battle Image](https://github.com/youruser/battle-simulator/assets/12345/battle-simulator-screenshot)
+![Battle Image](https://github.com/user-attachments/assets/3d507625-ac9a-4468-a7a7-ba6b11b624e8)
 
 ## What's this?
 
